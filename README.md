@@ -22,10 +22,6 @@ npm install
 
 ```
 
-Use code with caution.  [Learn more](https://bard.google.com/faq#coding)
-
-content_copy
-
 5.  Start the development server:
 
 Bash
@@ -35,8 +31,5 @@ npm run dev
 
 ```
 
-Use code with caution.  [Learn more](https://bard.google.com/faq#coding)
-
-content_copy
 
 5.  Open your browser and navigate to http://localhost:3000 to view the rendered Markdown content.
